@@ -1,0 +1,211 @@
+.navbar-image {
+    width: 50px;
+    height: 50px;
+    padding: 8px;
+}
+.navbar-title {
+    font-size: 24px;
+    color: #001f3f;
+    font-family: montserrat;
+    font-weight: 600;
+}
+
+
+.bg-container {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-studying-abroad-in-the-united-states-psd-layering-image_194941.jpg");
+padding: 10px;
+    background-size: cover;
+}
+
+.welcome {
+    text-align: center;
+    font-size: 24px;
+    padding: 8px;
+    color: #001f3f;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+
+.img {
+   width: 100%;
+    max-width: 120px;   
+    height: auto;
+    margin: 10px;
+}
+
+.para-intro {
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #001f3f;
+    font-size: 14px;
+    font-family: roboto;
+    text-align: center;
+    font-weight: 900;
+}
+
+.para {
+    padding-left: 20px;
+    padding-right: 16px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 900;
+    color: #001f3f;
+    font-family: roboto;
+}
+.button {
+    border-radius: 10px;
+    padding: 6px;
+    background-color: #007bff;
+    color: white;
+    margin: 10px;
+}
+
+div button {
+    border-radius: 10px;
+    padding: 6px;
+    background-color: #007bff;
+    color: white;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+button:hover {
+    background-color: #0056b3;
+    color: #ffffff;
+    text-decoration: underline;
+    font-family: bold;
+}
+
+.list {
+    color: #001f3f;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+    place-items: center;
+    padding-bottom: 20px;
+    padding-top: 16px;
+}
+
+.bg2 {
+    background-color: #a5cdf8;
+    padding: 8px;
+}
+
+.img2 {
+    height: 130px;
+    width: 210px;
+    margin: 16px;
+    margin-bottom: 2px;
+    border-radius: 20px;
+    padding: 12px;
+}
+
+.countries {
+    margin: 20px;
+}
+
+.img2:hover {
+    transform: scale(1.05);
+}
+
+.usa {
+    background-color: #a5cdf8;
+
+}
+
+.quest {
+    padding: 4px;
+    color: #007bff;
+}
+
+.quest:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+.quest:visited {
+    color: darkviolet;
+}
+
+.image {
+    height: 320px;
+    width: 400px;
+    border-radius: 10px;
+}
+.carousel-caption {
+    background:transparent;
+     border-radius:4px;
+     
+}
+.carousels {
+    padding: 10px;
+    text-align: center;
+}
+
+.bg3 {
+    background-color: #ffb7c5;
+    padding: 4px;
+
+}
+.section h3 {
+    font-size:20px;
+     font-weight:bold;
+     color:darkblue;
+      padding: 8PX;
+}
+.section li{
+    font-weight:500;
+     font-size:15px;
+     color: #1e1e1e;
+}
+.section p {
+    font-weight:500; 
+    font-size:16px;
+    color: #1e1e1e;
+    padding-left: 8px;
+}
+h4 {
+    font-size:18px;
+     font-weight:bold;
+     color:#2d2d2d;
+      padding: 8PX;
+}
+.box h3 {
+  font-size:20px;
+     font-weight:bold;
+     color:darkblue;
+      padding: 8PX;   
+}
+.box li {
+    font-weight:500;
+     font-size:15px;
+     color: #1e1e1e;
+     padding: 8px;
+}
+.box p {
+    font-weight:500; 
+    font-size:16px;
+    color: #1e1e1e;
+    padding-left: 8px;
+}
+.tip {
+    font-weight:900; 
+    font-size:16px;
+    color: #1e1e1e;
+    padding-left: 8px;
+}
+.box h2 {
+    font-size:28px;
+     color:darkblue;
+      padding:4px;
+       font-weight:bolder;
+       text-decoration: underline;
+}
+.bg4 {
+    background-color: #e3f2fd;
+    padding: 6px;
+}
+
+
